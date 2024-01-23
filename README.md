@@ -14,4 +14,4 @@ To run the program, make sure you have Python and Ngrok installed. You can find 
 4. Open CMD, navigate to your current directory, and run the `setup.py` file. Keep this setup.py file open after running it.
 5. Next, open the `baglan.py` file and follow the instructions. Type your Ngrok address and port to enjoy a private and free online chat! 😏
 
-Feel free to share this on GitHub, and happy chatting! 🚀
+Feel free and happy chatting! 🚀
